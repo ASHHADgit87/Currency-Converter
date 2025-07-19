@@ -18,6 +18,8 @@ A modern, responsive web app for converting currencies in real time. Built with 
 - **[ExchangeRate-API](https://www.exchangerate-api.com/)** (for currency rates)
 - **[FlagsAPI](https://flagsapi.com/)** (for flag images)
 
-## 🖥️ Usage
+## Getting Started
+
+https://ashh-currency-converter.netlify.app/
 
 
