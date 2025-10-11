@@ -22,7 +22,7 @@ A modern, responsive web app for converting currencies in real time. Built with 
 
 https://ashh-currency-converter.netlify.app/
 
-## 👨‍💻 Author
+## 👨‍💻 Creator & Developer
 
 - **Muhammad Ashhadullah Zaheer**  
 - 🔗 LinkedIn: [Muhammad Ashhadullah Zaheer](https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/)  
